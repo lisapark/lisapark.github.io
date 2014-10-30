@@ -1,0 +1,15 @@
+.img-thumbnail {
+	padding: 30px;
+	background-color: #428bca;
+}
+
+.wraptocenter {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: ...;
+    height: ...;
+}
+.wraptocenter * {
+    vertical-align: middle;
+}
